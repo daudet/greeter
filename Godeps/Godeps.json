@@ -1,0 +1,12 @@
+{
+	"ImportPath": "github.com/daudet/greeter",
+	"GoVersion": "go1.7",
+	"GodepVersion": "v76",
+	"Deps": [
+		{
+			"ImportPath": "github.com/urfave/cli",
+			"Comment": "v1.19.1-4-g8ef3805",
+			"Rev": "8ef3805c9de2519805c3f060524b695bba2cd715"
+		}
+	]
+}
